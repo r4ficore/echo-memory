@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2025-05-20T20:47:18.803079",
+    "role": "user",
+    "text": "Hello world",
+    "resonance": 0.95
+  },
+  {
+    "timestamp": "2025-05-20T20:47:20.938174",
+    "role": "user",
+    "text": "Another message"
+  }
+]
