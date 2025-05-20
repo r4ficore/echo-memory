@@ -1,0 +1,5 @@
+# echo-memory dependencies
+# Wszystko bazuje na standardowych bibliotekach Pythona 3.10+
+# Jedyna zewnętrzna zależność (dla testów) to pytest
+
+pytest>=7.0.0
